@@ -295,7 +295,7 @@ Unemployment-Analysis/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Unemployment-Analysis.git
+git clone https://github.com/Priyadharshinipalanisami/Unemployment-Analysis.git
 ```
 
 ---
